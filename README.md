@@ -1,7 +1,10 @@
-# Partial Multi view clutering
-Matlab Codes for Partial Multi view clutering methods such as MIC, IMG, GPMVC, MKKIK, PVC and my PMVC-ASC(PMLAN).
+# Partial Multi View Clutering
+
+Matlab Codes for Partial Multi Vew Clutering methods.
 
 Repository for the paper "Partial Multi-view Clustering via Auto-Weighting Similarity Completion"(https://link.springer.com/chapter/10.1007/978-3-319-97909-0_23).
+
+This project also support GPMVC、MIC、IMG、MKKIK、PVC、USL、lmkkmeans.
 
 ## Abstract
 
@@ -11,6 +14,7 @@ With the development of data collection techniques, multi-view clustering (MVC) 
 
 If you find this project useful in your research, please consider cite:
 
+```
 @inproceedings{min2018partial,
   title={Partial Multi-view Clustering via Auto-Weighting Similarity Completion},
   author={Min, Chen and Cheng, Miaomiao and Yu, Jian and Jing, Liping},
@@ -19,6 +23,7 @@ If you find this project useful in your research, please consider cite:
   year={2018},
   organization={Springer}
 }
+```
 
 ## License
 
